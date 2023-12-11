@@ -24,7 +24,7 @@
 /* nav-bar flex */
 #flex{
   display:flex;
-  vertical-align: middle;
+  /* vertical-align: middle; */
   align-items: center;
   gap:20px;
 }
