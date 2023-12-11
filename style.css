@@ -1,3 +1,5 @@
+  /* entire container for webpage*/
+  
   .container{
         margin:0;
         padding:0;
@@ -5,6 +7,8 @@
         width:1000px;
         height:800px;
     }
+
+ /* class for top nav-bar */
   #profile{
     height:50px; 
     background-color: black;
@@ -14,17 +18,17 @@
     display: flex;
     justify-content: space-evenly;
     width:1000px;
-    /* background:center; */
+  
     
   }
-
+/* nav-bar flex */
 #flex{
   display:flex;
   vertical-align: middle;
   align-items: center;
   gap:20px;
 }
-
+/* class for main container */
   .main{
     width:700px;
     background-color: blue;
@@ -35,7 +39,7 @@
     margin:0 auto;
 
   }
-
+/* column 1 id */
   .colA{
     
     width:400px ;
@@ -74,7 +78,7 @@
 
 }
 
-
+/* colum2 id */
 .colB{
   
     width: 200px;
