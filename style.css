@@ -1,0 +1,161 @@
+  .container{
+        margin:0;
+        padding:0;
+        background-color:rgba(195, 0, 255, 0.5);
+        width:1000px;
+        height:800px;
+    }
+  #profile{
+    height:50px; 
+    background-color: black;
+    color: white;
+    padding:1px;
+    vertical-align: middle;
+    display: flex;
+    justify-content: space-evenly;
+    width:1000px;
+    /* background:center; */
+    
+  }
+
+#flex{
+  display:flex;
+  vertical-align: middle;
+  align-items: center;
+  gap:20px;
+}
+
+  .main{
+    width:700px;
+    background-color: blue;
+    display:flex;
+    justify-content:space-evenly;
+    padding: 10px;
+    gap:5px;
+    margin:0 auto;
+
+  }
+
+  .colA{
+    
+    width:400px ;
+    background-color: rgb(238, 240, 236);
+    height:700px;
+    border: 1px solid black;
+    align-items: center;
+    
+  }
+.box1{
+  width:375px;
+  height:50px;
+  background-color: rgb(173, 69, 69);
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#top-bar{
+  background-color: rgb(38, 99, 139);
+  padding:0px;
+
+
+ 
+}
+#bottom-bar{
+  background-color: rgb(224, 217, 208);
+  padding: 10px;
+
+}
+
+.education h3 {
+  background-color: gray;
+
+}
+
+/* .education{
+  background-color: black;
+  color:white;
+  height: 20px;
+} */
+
+.colB{
+  
+    width: 150px;
+    background-color: rgb(143, 143, 216);
+    padding:10px;
+    height:700px;
+
+}   
+
+
+
+
+.education{
+width:90%;
+    height:150px;
+    background-color: rgb(6, 224, 252);
+    margin:20px;
+    
+
+}
+
+#box3{
+width:200px;
+    height:200px;
+    background-color: rgb(216, 235, 47);
+  
+
+}
+
+
+.pfp {  height:35px;
+  width:35px;
+  border-style:solid;
+  border-radius:50%;
+  border:4px;}
+
+#box4{
+width:200px;
+    height:200px;
+    background-color: rgb(228, 171, 223);
+
+
+}
+
+
+
+#pic{
+  height: 50px;
+  width: 50px;
+  position: relative;
+  top: 35px;
+  left: 35px;
+
+}
+
+
+img{
+      height:  15px;
+      width:15px;
+  }
+
+
+
+ul{
+  list-style-type: none
+  
+
+}
+.edit {
+  color:blue;
+  text-decoration:underline;
+}
+
+.info{
+  text-align: left;
+}
+#name{
+  margin-left: 40px;
+}
